@@ -1,2 +1,2 @@
 # portfolio-optimisation 
-Application Modern Portfolio Theory to choose optimal holdings ratios based on volatility tolerance
+Portfolio optimisation using the Markowitz model. Used Monte Carlo simulations, optimisation and minimisation search
